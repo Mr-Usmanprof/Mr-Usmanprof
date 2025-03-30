@@ -4,13 +4,13 @@
 
 <img align="right" alt="coding" width="400" src="https://github.com/Mr-Usmanprof/Mr-Usmanprof/blob/main/deepLearning.webp">
 
-- 🔝 I’m currently working on **Freelancing as an AI/ML Engineer**  
-- 🌱 I’m currently pursuing a **Master’s in Computing and Data Science**  
-- 👯 I’m looking to collaborate on **AI & Machine Learning projects (Computer Vision, NLP, Deep Learning)**  
-- 👨‍💻 All of my projects are available at **[GitHub Repositories](YOUR_GITHUB_PROFILE_LINK)**  
-- 💬 Ask me about **AI & Machine Learning (Computer Vision, NLP, Deep Learning)**  
-- 👨‍🎓 How to reach me **mr.usmanprof@gmail.com**  
-- 📄 Know about my experiences **[Resume](https://drive.google.com/file/d/1aBxOj7Ierjaikw3qmkoi4IF4FpzGt6yg/view?usp=drive_link)**  
+-  I’m currently working on **Freelancing as an AI/ML Engineer**  
+-  I’m currently pursuing a **Master’s in Computing and Data Science**  
+-  I’m looking to collaborate on **AI & Machine Learning projects (Computer Vision, NLP, Deep Learning)**  
+-  All of my projects are available at **[GitHub Repositories](https://github.com/Mr-Usmanprof/AI-ML-Projects)**  
+-  Ask me about **AI & Machine Learning (Computer Vision, NLP, Deep Learning)**  
+-  How to reach me **mr.usmanprof@gmail.com**  
+-  Know about my experiences **[Resume](https://drive.google.com/file/d/1aBxOj7Ierjaikw3qmkoi4IF4FpzGt6yg/view?usp=drive_link)**  
 
 ---
 
